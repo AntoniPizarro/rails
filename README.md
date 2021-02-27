@@ -19,7 +19,10 @@ Este proyecto Java con Maven consiste en simular una red ferroviaria en la que c
         - velocidad (float)
         - ruta (Ruta)
         - codigo (final String)
+        - currentEstacion (Estacion)
     - Métodos
+        - getCurrentEstacion(): Estacion
+        - setCurrentEstacion(Estacion): void
         - setVelocidad(float): void
         - getCodigo(): String
         - getRuta(): Ruta

@@ -1,0 +1,4 @@
+gpl\pizarro\rails\Rails.class
+gpl\pizarro\rails\ruta\Ruta.class
+gpl\pizarro\rails\tren\Tren.class
+gpl\pizarro\rails\estacion\Estacion.class
